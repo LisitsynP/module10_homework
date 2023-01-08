@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(177, 171, 171);
+}
+.conteiner {
+    margin-top: 200px;
+    height: 100px;
+    width: 300px;
+    background-color: rgb(130, 165, 153);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    height: 25px;
+    width: 130px;
+    background-color: rgb(173, 127, 179);
+}
+.result {
+    margin-top: 30px;
+}

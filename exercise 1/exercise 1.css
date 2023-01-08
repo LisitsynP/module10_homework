@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(177, 171, 171);
+}
+.conteiner {
+    margin-top: 200px;
+    height: 100px;
+    width: 300px;
+    background-color: rgb(130, 165, 153);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    height: 25px;
+    width: 140px;
+    display: flex;
+    background-color: rgb(173, 127, 179);
+}
+.svg1 {
+    padding-left: 5px;
+    height: 20px;
+    width: 20px;
+    display: none;
+}
+.svg2 {
+    padding-left: 5px;
+    height: 20px;
+    width: 20px;
+    display: none;
+}
+.active {
+    display: block;
+}
